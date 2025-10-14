@@ -37,6 +37,7 @@ Você pode acompanhar tudo por aqui no meu GitHub. Em breve pretendo organizar m
 
 [![LinkedIn](https://img.shields.io/badge/Breno%20Silva-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenoslv77/)
 
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenoslv77@gmail.com)
 ---
 
 <p align="center">
