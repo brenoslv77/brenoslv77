@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internet%20das%20Coisas-IoT-orange?style=for-the-badge&logo=arduino&logoColor=white"/>
-# <p align="center">BRENO SILVA</p>
+<p align="center">
 
 ---
 
