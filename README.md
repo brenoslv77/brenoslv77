@@ -82,5 +82,7 @@ Acredito que aprender diferentes tecnologias e entender como elas se integram é
   <a href="https://www.tinkercad.com/users/0Gqaeb0fkbf-brenoslv77">Tinkercad</a>
 </p>
 
-</p>ection=footer"/>
-</p>
+
+
+
+
