@@ -82,13 +82,5 @@ Acredito que aprender diferentes tecnologias e entender como elas se integram é
   <a href="https://www.tinkercad.com/users/0Gqaeb0fkbf-brenoslv77">Tinkercad</a>
 </p>
 
----
-
-<p align="center">
-  <i>Transformar ideias em soluções, aprendendo e contribuindo em cada etapa do processo.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=orange&height=100&section=footer"/>
 </p>ection=footer"/>
 </p>
