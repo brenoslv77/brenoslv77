@@ -67,7 +67,7 @@ Acredito que aprender diferentes tecnologias e entender como elas se integram é
 - Programação dos movimentos.
 - Desenvolvimento do controle do carrinho.
 
-**Garagem da Casa Inteligente**
+**Garagem da Casa Inteligente — Projeto Integrador Senac**
 - Desenvolvimento da ideia e planejamento da solução.
 - Programação e desenvolvimento do circuito eletrônico.
 - Integração dos componentes do sistema.
